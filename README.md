@@ -9,7 +9,7 @@
 
 <p align="left">🧿 Find out more about me & feel free to connect with me here:</p>
 <p align="left">
-  <a href="https://medium.com/@this-is-vahid" target="_blank" rel="noreferrer" title="https://medium.com/@this-is-vahid">
+  <a href="https://medium.com/@this-is-vahiiid" target="_blank" rel="noreferrer" title="https://medium.com/@this-is-vahiiid">
     <img
       src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg"
       alt="medium"
@@ -26,7 +26,7 @@
       height="40"
     />
   </a>  
-  <a href="https://www.youtube.com/@this-is-vahid" target="_blank" rel="noreferrer" title="https://www.youtube.com/@this-is-vahid">
+  <a href="https://www.youtube.com/@this-is-vahiiid" target="_blank" rel="noreferrer" title="https://www.youtube.com/@this-is-vahiiid">
     <img
       src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"
       alt="youtube"
@@ -42,6 +42,15 @@
       height="40"
     />
   </a>    
+  
+  <a href="https://t.me/this_is_vahiiid" target="_blank" rel="noreferrer" title="@this_is_vahiiid">
+    <img
+      src="https://www.vectorlogo.zone/logos/telegram/telegram"
+      alt="gmail"
+      width="40"
+      height="40"
+    />
+  </a> 
   <a href="https://www.buymeacoffee.com/vahid.zafari" target="_blank" rel="noreferrer" title="https://www.buymeacoffee.com/vahid.zafari">
     <img
       src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-icon.svg"
