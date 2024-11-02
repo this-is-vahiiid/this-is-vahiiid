@@ -45,7 +45,7 @@
   
   <a href="https://t.me/this_is_vahiiid" target="_blank" rel="noreferrer" title="@this_is_vahiiid">
     <img
-      src="https://www.vectorlogo.zone/logos/telegram/telegram"
+      src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"
       alt="gmail"
       width="40"
       height="40"
