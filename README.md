@@ -14,8 +14,7 @@
       src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg"
       alt="medium"
       width="40"
-      height="40"
-      style="background:white"
+      height="40""
     />
   </a>
   <a href="https://www.linkedin.com/in/this-is-vahiiid/" target="_blank" rel="noreferrer" title="https://www.linkedin.com/in/this-is-vahiiid/">
@@ -43,11 +42,4 @@
       height="40"
     />
   </a> 
-  <a href="https://www.buymeacoffee.com/vahid.zafari" target="_blank" rel="noreferrer" title="https://www.buymeacoffee.com/vahid.zafari">
-    <img
-      src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-icon.svg"
-      alt="gmail"
-      height="40"
-    />
-  </a>
 </p>
