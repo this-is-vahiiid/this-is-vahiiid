@@ -33,15 +33,7 @@
       width="40"
       height="40"
     />
-  </a>
-  <a href="mailto:zafarivahid@gmail.com" target="_blank" rel="noreferrer" title="zafarivahid@gmail.com">
-    <img
-      src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"
-      alt="gmail"
-      width="40"
-      height="40"
-    />
-  </a>    
+  </a> 
   
   <a href="https://t.me/this_is_vahiiid" target="_blank" rel="noreferrer" title="@this_is_vahiiid">
     <img
