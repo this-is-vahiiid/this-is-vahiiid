@@ -9,14 +9,6 @@
 
 <p align="left">🧿 Find out more about me & feel free to connect with me here:</p>
 <p align="left">
-  <a href="https://medium.com/@this-is-vahiiid" target="_blank" rel="noreferrer" title="https://medium.com/@this-is-vahiiid">
-    <img
-      src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg"
-      alt="medium"
-      width="40"
-      height="40""
-    />
-  </a>
   <a href="https://www.linkedin.com/in/this-is-vahiiid/" target="_blank" rel="noreferrer" title="https://www.linkedin.com/in/this-is-vahiiid/">
     <img
       src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
