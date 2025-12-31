@@ -37,11 +37,10 @@
 
 <a href="mailto:this.is.vahiiid@gmail.com" target="_blank" rel="noreferrer" title="">
     <img
-      src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg"
+      src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"
       alt="gmail"
       width="40"
       height="40"
     />
   </a> 
-  
 </p>
