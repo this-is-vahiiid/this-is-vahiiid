@@ -35,7 +35,7 @@
     />
   </a> 
 
-<a href="mailto:this.is.vahiiid@gmail.com" target="_blank" rel="noreferrer" title="">
+<a href="mailto:this.is.vahiiid@gmail.com" target="_blank" rel="noreferrer" title="this.is.vahiiid@gmail.com">
     <img
       src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"
       alt="gmail"
