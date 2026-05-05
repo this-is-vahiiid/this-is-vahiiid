@@ -8,7 +8,7 @@
 🔭 I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Some of my hobbies are mountain climbing, reading books, swimming, and learning new things.
 
 <p align="left">🧿 Find out more about me & feel free to connect with me here:</p>
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/this-is-vahiiid/" target="_blank" rel="noreferrer" title="https://www.linkedin.com/in/this-is-vahiiid/">
     <img
       src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
