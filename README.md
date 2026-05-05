@@ -24,6 +24,7 @@
       width="40"
       height="40"
     />
+    Linkedin
   </a> 
   
   <a href="https://t.me/this_is_vahiiid" target="_blank" rel="noreferrer" title="@this_is_vahiiid">
