@@ -9,7 +9,7 @@
 
 <p align="left">🧿 Find out more about me & feel free to connect with me here:</p>
 <p align="left">
-  <a href="https://www.linkedin.com/in/this-is-vahiiid/" target="_blank" rel="noreferrer" title="https://www.linkedin.com/in/this-is-vahiiid/">
+  <a href="https://www.linkedin.com/in/this-is-vahiiid/" target="_blank" rel="noreferrer" title="https://www.linkedin.com/in/this-is-vahiiid/" display="inline">
     <img
       src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
       alt="linkedin"
@@ -17,7 +17,7 @@
       height="40"
     />
   </a>  
-  <a href="https://www.youtube.com/@this-is-vahiiid" target="_blank" rel="noreferrer" title="https://www.youtube.com/@this-is-vahiiid">
+  <a href="https://www.youtube.com/@this-is-vahiiid" target="_blank" rel="noreferrer" title="https://www.youtube.com/@this-is-vahiiid" display="inline">
     <img
       src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"
       alt="youtube"
@@ -26,7 +26,7 @@
     />
   </a> 
   
-  <a href="https://t.me/this_is_vahiiid" target="_blank" rel="noreferrer" title="@this_is_vahiiid">
+  <a href="https://t.me/this_is_vahiiid" target="_blank" rel="noreferrer" title="@this_is_vahiiid" display="inline">
     <img
       src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"
       alt="gmail"
@@ -35,7 +35,7 @@
     />
   </a> 
 
-<a href="mailto:this.is.vahiiid@gmail.com" target="_blank" rel="noreferrer" title="this.is.vahiiid@gmail.com">
+<a href="mailto:this.is.vahiiid@gmail.com" target="_blank" rel="noreferrer" title="this.is.vahiiid@gmail.com" display="inline">
     <img
       src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"
       alt="gmail"
